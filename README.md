@@ -1,32 +1,43 @@
 # Hi, I'm Sakshi Dubey 👋
 
 ### 🚀 Software Engineer | Full-Stack Developer | AI & Cloud Enthusiast
-I am an **IT Graduate (2025)** from TCET Mumbai, specializing in the **MERN Stack** and **AWS Cloud**. I focus on building high-impact, scalable applications driven by data and AI.
+I am an **IT Graduate (2025)** from TCET Mumbai, specializing in the **MERN Stack** and **AWS Cloud Architecture**. I am passionate about building scalable web applications and AI-driven solutions that solve real-world problems.
 
 ---
 
-### 🏆 Top Achievements
-* 🤖 **IIT-Bombay LLM Hackathon Finalist** – Engineered advanced Large Language Model solutions.
-* 🥈 **Smart India Hackathon (SIH) Finalist** – Developed national-level innovative software.
-* ☁️ **Oracle Cloud Infrastructure (OCI) AI Certified** – Verified expertise in AI foundations.
-* 🌟 **GSSoC '24 Contributor** – Active open-source contributor.
+### 🏆 Professional Highlights
+* 🥈 **Smart India Hackathon (SIH) Finalist** – Represented my college at a national level developing innovative software solutions.
+* 🤖 **IIT-Bombay LLM Hackathon Finalist** – Engineered advanced Large Language Model applications and prompt engineering strategies.
+* ☁️ **Oracle Cloud Infrastructure (OCI) AI Certified** – Globally recognized certification in AI/ML foundations and cloud integration.
+* 🌟 **GSSoC '24 Contributor** – Contributed to various open-source projects during GirlScript Summer of Code.
 
 ---
 
 ### 🛠 Technical Expertise
-**Full-Stack & Data:** [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,python,java,html,css)](https://skillicons.dev)
 
-**Cloud & Tools:** [![Cloud Skills](https://skillicons.dev/icons?i=aws,github,git,docker,postman,figma)](https://skillicons.dev)
+**Languages & Frameworks**
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,python,java,html,css)](https://skillicons.dev)
+
+**Cloud & Tools**
+[![Cloud Skills](https://skillicons.dev/icons?i=aws,github,git,docker,postman,figma)](https://skillicons.dev)
 
 ---
 
-### 📂 Key Projects
-* 📈 **Crypto Price Prediction:** Deep Learning project utilizing **LSTM, GRU, and CNN-LSTM** architectures with Sentiment Analysis for high-accuracy forecasting.
-* 🧺 **FirstIron (AWS):** A complete laundry service infrastructure utilizing **10+ AWS services** (Lambda, DynamoDB, SNS) for a serverless, scalable backend.
-* 📹 **Real-Time Video Platform:** Secure communication tool built with **WebRTC** and **Socket.io**.
+### 📂 Featured Projects
+
+* 📈 **Crypto Price Prediction:** A deep learning system using **LSTM, GRU, and CNN-LSTM** architectures combined with sentiment analysis to forecast cryptocurrency trends.
+* 🧺 **FirstIron (AWS Integrated):** A full-stack laundry service platform utilizing **10+ AWS services** (Lambda, DynamoDB, SNS, S3) for a serverless and highly scalable backend.
+* 📹 **Real-Time Video Platform:** A low-latency communication tool built with **WebRTC** and **Socket.io** for seamless peer-to-peer video conferencing.
 
 ---
 
 ### 🌐 Let's Connect
+I'm always open to discussing new opportunities or technical collaborations.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshid9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshidubey900@gmail.com)
+
+---
+<p align="center">
+  <i>"Driven by logic, powered by Cloud."</i>
+</p>
