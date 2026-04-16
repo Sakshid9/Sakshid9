@@ -34,7 +34,7 @@ I am an **IT Graduate (2025)** from TCET Mumbai, specializing in the **MERN Stac
 ### 🌐 Let's Connect
 Click the buttons below to reach out:
 
-[**📩 Send me an Email**](mailto:sakshidubey900@gmail.com)  |  [**💼 Visit my LinkedIn**](https://www.linkedin.com/in/sakshid9/)
+[**📩 Send me an Email**](mailto:dubeysakshi9292@gmail.com)  |  [**💼 Visit my LinkedIn**](https://www.linkedin.com/in/sakshid9/)
 
 ---
 <p align="center">
