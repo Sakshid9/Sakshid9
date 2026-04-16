@@ -6,10 +6,10 @@ I am an **IT Graduate (2025)** from TCET Mumbai, specializing in the **MERN Stac
 ---
 
 ### 🏆 Professional Highlights
-* 🥈 **Smart India Hackathon (SIH) Finalist** – Represented my college at a national level developing innovative software solutions.
-* 🤖 **IIT-Bombay LLM Hackathon Finalist** – Engineered advanced Large Language Model applications and prompt engineering strategies.
-* ☁️ **Oracle Cloud Infrastructure (OCI) AI Certified** – Globally recognized certification in AI/ML foundations and cloud integration.
-* 🌟 **GSSoC '24 Contributor** – Contributed to various open-source projects during GirlScript Summer of Code.
+* 🥈 **Smart India Hackathon (SIH) Finalist** – Represented my college at a national level.
+* 🤖 **IIT-Bombay LLM Hackathon Finalist** – Engineered advanced Large Language Model applications.
+* ☁️ **Oracle Cloud Infrastructure (OCI) AI Certified** – Globally recognized AI/ML certification.
+* 🌟 **GSSoC '24 Contributor** – Active open-source contributor.
 
 ---
 
@@ -25,16 +25,16 @@ I am an **IT Graduate (2025)** from TCET Mumbai, specializing in the **MERN Stac
 
 ### 📂 Featured Projects
 
-* 📈 **Crypto Price Prediction:** A deep learning system using **LSTM, GRU, and CNN-LSTM** architectures combined with sentiment analysis to forecast cryptocurrency trends.
-* 🧺 **FirstIron (AWS Integrated):** A full-stack laundry service platform utilizing **10+ AWS services** (Lambda, DynamoDB, SNS, S3) for a serverless and highly scalable backend.
-* 📹 **Real-Time Video Platform:** A low-latency communication tool built with **WebRTC** and **Socket.io** for seamless peer-to-peer video conferencing.
+* 📈 **Crypto Price Prediction:** A deep learning system using **LSTM and CNN-LSTM** architectures for forecasting.
+* 🧺 **FirstIron (AWS Integrated):** A laundry platform utilizing **10+ AWS services** for a serverless backend.
+* 📹 **Real-Time Video Platform:** Low-latency communication built with **WebRTC** and **Socket.io**.
 
 ---
 
 ### 🌐 Let's Connect
-Click the buttons below to reach out:
 
-[**📩 Send me an Email**](mailto:dubeysakshi9292@gmail.com)  |  [**💼 Visit my LinkedIn**](https://www.linkedin.com/in/sakshid9/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">](mailto:dubeysakshi9292@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/sakshid9/)
 
 ---
 <p align="center">
