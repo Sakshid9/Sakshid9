@@ -33,7 +33,7 @@ I am an **IT Graduate (2025)** from TCET Mumbai, specializing in the **MERN Stac
 
 ### 🌐 Let's Connect
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">](mailto:dubeysakshi9292@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">](mail to:dubeysakshi9292@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/sakshid9/)
 
 ---
